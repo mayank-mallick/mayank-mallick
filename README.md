@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayank-mallick
-- 👀 I’m interested in web developement
+- 👀 I’m interested in frontend web developement
 - 🌱 I’m currently learning web developement
 - 📫 How to reach me ...
 mail: mayankmallick0@gmail.com
