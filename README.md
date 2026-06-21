@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend web developement
 - 🌱 I’m currently learning web developement
 - 📫 How to reach me ...
-mail: mayankmallick0@gmail.com
+mail: ig.mayankmallick@gmail.com
 
 <!---
 mayank-mallick/mayank-mallick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
